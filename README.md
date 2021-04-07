@@ -1,1 +1,1 @@
-# automatic-trading-bot-moving-averages
+this bot trades moving averages in the forex market using iqoption's API, it buys when the short term average is higher than the long term average and vice versea, this is only for learning purposes, not to be used on your real account, do so at your own risk
